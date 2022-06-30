@@ -1,0 +1,7 @@
+package verinano
+
+modules = Main
+main = Main
+executable = runVeriNano
+
+sourcedir = "src"
